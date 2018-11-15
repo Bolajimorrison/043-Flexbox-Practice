@@ -1,0 +1,27 @@
+.sample1{
+    background:black;
+    display:flex;
+    Justify-content :space-between;
+    background-color:grey;
+color:white;
+padding:25px;
+border:solid black 10px;
+}
+
+.sample2{
+    display:flex;
+    Justify-content :space-between;
+    background-color:red;
+color:white;
+padding:25px;
+border:solid black 10px;
+}
+
+.item3{
+    display:flex;
+    Justify-content :space-between;
+    background-color:red;
+color:white;
+padding:25px;
+border:solid black 10px;
+}
